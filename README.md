@@ -15,7 +15,7 @@ EasyTrain is a full-stack web app that helps users upload a dataset, detect the 
 | ML Tasks | Binary classification, multi-class classification, and regression |
 | Storage | Local filesystem for trained models and HTML reports |
 | Authentication | None implemented |
-| Database | None implemented |
+| Database | None implemented |    
 
 > [!NOTE]
 > The app is intentionally simple for end users: upload a CSV, set the target column, review the suggested model, train, and export results.
